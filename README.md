@@ -14,6 +14,6 @@
   "Blockchain": "Redstone/Starknet/Base/Custom",
   "platforms": ["PC", "Mobile"],
   "playnow_link": "[game.xyz]",
-  "link":{"website": "[game.xyz], "twitter": "x.com/[game]"},
+  "link":{"website": "[game.xyz]", "twitter": "x.com/[game]"},
   "description": "game description",
 }
